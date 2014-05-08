@@ -12,4 +12,4 @@ Quickly Show/Hide Hidden Files on Mac OS X
 
 > Input: `showhide`
 
-![showhide Workflow](https://www.flickr.com/photos/mcpain83/14139969325/)
+![showhide Workflow](https://mcpain83.vela.uberspace.de/stuff/img/show-hide-files.png)
